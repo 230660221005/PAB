@@ -41,7 +41,10 @@
 | 30 | [Pertemuan 13 — `pertemuan-13/13-Pertemuan-13.md`](./pertemuan-13/13-Pertemuan-13.md) | Testing, debugging, bug fixes, test case, regresi, dan Tugas 13 |
 | 31 | Kode praktikum Pertemuan 13 — [`code/pertemuan-13/`](./code/pertemuan-13/) | `testing-debugging-flutter.dart` dan `latihan-testing-flutter.dart` |
 | 32 | Panduan Tugas 13 — [`pertemuan-13/contoh-tugas-13-mahasiswa.md`](./pertemuan-13/contoh-tugas-13-mahasiswa.md) | Kerangka pengumpulan test case dan bug fixes |
-| 33 | RPS — acuan mata kuliah | Rencana Pembelajaran Semester, CPMK, Sub-CPMK, indikator, asesmen, dan rubrik project |
+| 33 | [Pertemuan 14 — `pertemuan-14/14-Pertemuan-14.md`](./pertemuan-14/14-Pertemuan-14.md) | Integrasi fitur, penyempurnaan UI/UX, tata letak responsif, aksesibilitas, candidate release, dan Tugas 14 |
+| 34 | Kode praktikum Pertemuan 14 — [`code/pertemuan-14/`](./code/pertemuan-14/) | `integrasi-uiux-flutter.dart` dan `latihan-integrasi-uiux-flutter.dart` |
+| 35 | Panduan Tugas 14 — [`pertemuan-14/contoh-tugas-14-mahasiswa.md`](./pertemuan-14/contoh-tugas-14-mahasiswa.md) | Kerangka pengumpulan integrasi project dan candidate release |
+| 36 | RPS — acuan mata kuliah | Rencana Pembelajaran Semester, CPMK, Sub-CPMK, indikator, asesmen, dan rubrik project |
 
 ## Referensi dan Materi Pendukung Dart
 
@@ -175,6 +178,16 @@ Topik Dart lanjutan, seperti package/library, inheritance, enum, extension, JSON
 - [Dart — Testing](https://dart.dev/language/fortify-your-app#testing) — konsep pengujian pada ekosistem Dart
 - [Dart API — `assert`](https://api.dart.dev/stable/dart-core/assert.html) — pemeriksaan kondisi saat pengembangan
 - [Flutter DevTools](https://docs.flutter.dev/tools/devtools/overview) — alat pemeriksaan aplikasi dan proses debugging
+
+### 14-Pertemuan-14.md — Integrasi Project dan Penyempurnaan UI/UX
+
+- [Flutter — Adaptive and responsive design](https://docs.flutter.dev/ui/adaptive-responsive) — prinsip menyesuaikan tata letak dengan ruang yang tersedia
+- [Flutter — LayoutBuilder](https://api.flutter.dev/flutter/widgets/LayoutBuilder-class.html) — referensi API `LayoutBuilder` dan `BoxConstraints`
+- [Flutter — MediaQuery](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html) — referensi ukuran jendela, padding, dan skala teks
+- [Flutter — Themes](https://docs.flutter.dev/cookbook/design/themes) — penggunaan `ThemeData`, `ColorScheme`, dan `TextTheme`
+- [Flutter — Accessibility](https://docs.flutter.dev/ui/accessibility) — target sentuh, kontras, dan pembaca layar
+- [Flutter — Build and release](https://docs.flutter.dev/deployment) — build web dan Android untuk keperluan rilis
+- [Semantic Versioning](https://semver.org/) — penomoran versi dan penanda release candidate
 
 ### Repositori Kelas
 
